@@ -15,7 +15,6 @@ local.properties
 .recommenders
 data/*
 settings.json
-*.db
 
 
 # External tool builders
